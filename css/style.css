@@ -1,0 +1,30 @@
+.container {
+  margin-top: 100px;
+}
+
+.navbar-brand {
+  color: #3399ff;
+}
+
+.btn-login:hover {
+  background-color: #00b300;
+}
+
+.btn-register {
+  margin-left: 20px;
+}
+.btn-register:hover {
+  background-color: #0088ff;
+}
+
+.btn-logout:hover {
+  background-color: #ff471a;
+}
+
+.input-group-text {
+  background-color: #66b3ff;
+}
+
+p.text-center {
+  color: red;
+}
